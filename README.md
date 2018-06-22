@@ -1,5 +1,5 @@
 # data scienece
-## including four basic methods for data science
+## four basic methods for data science
 - crawl
 - frequent pattern mining
 - pca for dimension reduction
