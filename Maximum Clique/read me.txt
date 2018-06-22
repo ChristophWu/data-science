@@ -1,0 +1,5 @@
+This code aims to find maximum clique in a graph.
+
+For implement, you can just open cmd and python main.py inputfile outputfile.
+
+Attached is a toy example.
